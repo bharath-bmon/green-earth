@@ -154,7 +154,7 @@ nav ul li a:hover{
 }
 @media screen and (max-width: 770px){
     #banner{
-        width: 440px;
+        width: 100vw;
 
     }
     .banner-text h1{
